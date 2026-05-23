@@ -59,10 +59,10 @@ Areas I continue improving:
 ## Scouting Reports
 
 ### Individual Scouting Report
-cyberskyline.com/report/DL741CJ3VLV0
+https://www.cyberskyline.com/report/DL741CJ3VLV0
 
 ### Team Scouting Report
-cyberskyline.com/report/649UC22HPANE
+https://www.cyberskyline.com/report/649UC22HPANE
 
 ---
 
