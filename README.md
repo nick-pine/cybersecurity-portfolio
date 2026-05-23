@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio.
 
 I’m currently pursuing a Bachelor of Applied Cybersecurity (BACS) at SANS Institute and building the technical foundation for a transition into cybersecurity.
 
-Before returning to school, I worked as a pastry chef in fine dining restaurants. That experience taught me discipline, consistency under pressure, attention to detail, and structured problem solving—skills that translate surprisingly well into cybersecurity.
+Before returning to school, I worked as a pastry chef in fine dining restaurants. That experience taught me discipline, consistency under pressure, attention to detail, and structured problem solving skills that translate surprisingly well into cybersecurity.
 
 My interest in cybersecurity grew out of a long-standing curiosity about computers, systems, gaming, and understanding how technology works behind the scenes. As I learned more through coursework and hands-on practice, I became increasingly interested in security concepts, ethical hacking, and protecting myself and others online. I believe understanding technology is one of the best ways to avoid being in the dark about online safety and security.
 
@@ -20,7 +20,7 @@ The National Cyber League (NCL) was technically my second CTF experience, but it
 
 What I enjoyed most was the challenge-solving process. I enjoy difficult problems that require experimentation, persistence, and adapting when an approach does not work. NCL provided an environment where I could apply technical knowledge under time constraints and develop a more structured methodology for approaching unfamiliar scenarios.
 
-One of the biggest lessons I took away from the competition was learning *how* to approach challenges—not just finding solutions. I became more comfortable identifying what information mattered, selecting appropriate tools, researching efficiently, and adjusting strategies when I reached dead ends.
+One of the biggest lessons I took away from the competition was learning *how* to approach challenges, not just finding solutions. I became more comfortable identifying what information mattered, selecting appropriate tools, researching efficiently, and adjusting strategies when I reached dead ends.
 
 The experience also highlighted areas for continued growth. Web application exploitation remains one of my weaker categories, and participating helped me identify specific skills I want to continue developing.
 
